@@ -60,6 +60,7 @@ as bibliotecas da etapa anterior, como python e o pip (usado para gerenciar os p
     ```
 
 - Ativando ambiente virtual, de acordo com o seu sistema
+
     a. Windows:
     
     ```sh
